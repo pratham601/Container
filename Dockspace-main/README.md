@@ -7,19 +7,19 @@ Welcome to **DockSpace**! 🌊 This repository is my personal harbor of containe
 
 ### 📦 **Containerized Projects on Board:**  
 
-**1. [Docker "Hello World"](https://github.com/aryan1524in/Container/tree/main/Docker%20_Hello%20World_) 🐳**  
+**1. [Docker "Hello World"](https://github.com/pratham601/Container/tree/main/Dockspace-main/Docker%20_Hello%20World_) 🐳**  
    - **Goal:** Kickstart my Docker journey by running the classic "Hello World" container.  
    - **Key Focus:** Understanding basic Docker commands, image execution, and container runtime.  
 
-**2. [Dockerized Streamlit Development Environment](https://github.com/aryan1524in/Container/tree/main/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
+**2. [Dockerized Streamlit Development Environment](https://github.com/pratham601/Container/tree/main/Dockspace-main/2.%20Dockerized%20Streamlit%20Development%20Environment) 📊**  
    - **Goal:** Build a containerized Streamlit environment for smooth and efficient data visualization.  
    - **Key Focus:** Web app deployment, interactive UI, and container efficiency.  
 
-**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/aryan1524in/Container/tree/main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🚢**  
+**3. [Titanic Survival Predictor: Containerized Streamlit App](https://github.com/pratham601/Container/tree/main/Dockspace-main/3.Titanic%20Survival%20Predictor%20Containerized%20Streamlit%20App) 🚢**  
    - **Goal:** Deploy a Machine Learning-powered Titanic survival prediction app using Streamlit and Docker.  
    - **Key Focus:** ML model serving, interactive UI, and cloud deployment.  
 
-**4. [Containerized MySQL: Agile & Efficient](https://github.com/aryan1524in/Container/tree/main/4.%20Containerized%20MySQL_%20Agile%20%26%20Efficient%20%F0%9F%90%AC) 🐬**  
+**4. [Containerized MySQL: Agile & Efficient](https://github.com/pratham601/Container/tree/main/Dockspace-main/4.%20Containerized%20MySQL_%20Agile%20%26%20Efficient%20%F0%9F%90%AC) 🐬**  
    - **Goal:** Deploy MySQL in a Docker container, ensuring fast, reliable, and persistent database management.  
    - **Key Focus:** Data persistence, networking, and security.  
 
